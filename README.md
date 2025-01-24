@@ -13,6 +13,11 @@ In 2025, AI-driven tools have become indispensable in crafting impactful present
 
 ---
 
+![Tech Presentation](./01_tech_presentation.jpg)
+[Tech Presentation - Link](https://www.midjourney.com/jobs/660f9359-1130-4bb9-9709-3cd7fbecbc2e?index=0)
+description: Wide angle of modern futurisitc african classroom with multi cultural students in pristine clothes looking forward to a futuristic blackboard and a teacher at the front of the classroom. The background is a futuristic technologicaly advanced classroom with windows showing a modern city. Image has futuristic mood with diffused lighting in a cinematic style with vibrant colors
+
+
 ## ✨ Features
 
 1. **Dynamic Slide Content Generation**  
